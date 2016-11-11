@@ -21,7 +21,7 @@ Throughout this process, we have learned how to train a K-Nearest Neighbor model
 <h3>What's next for Where in the World is Flu-men Sandiego?</h3>
 An improved prediction model with more socioeconomic data would be a wonderful improvement to Where in the World is Flu-men Sandiego. With more time, we could extend the model beyond just the flu to include the spread of other diseases. We have also considered using airport data to determine if a relationship exists between transportation and the spread of disease.
 
-<h3>Built with<h3>
+<h3>Built with</h3>
 Python, Python Machine learning Libraries, Javascript APIS, Bootstrap, MongoDB, Pandas, and much love
 
 <h3>Devpost URL</h3>
